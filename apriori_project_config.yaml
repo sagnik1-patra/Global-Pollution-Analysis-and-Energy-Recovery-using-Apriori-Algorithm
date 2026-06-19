@@ -1,13 +1,13 @@
-apriori_min_confidence: 0.4
-apriori_min_support: 0.05
-average_apriori_rule_accuracy: 0.44206273776133465
-cnn_accuracy: 0.8999999761581421
+apriori_average_rule_accuracy: 0.44206273776133465
+author: Sagnik Patra
+cnn_accuracy: 0.925000011920929
 cnn_batch_size: 16
 cnn_epochs: 30
-dataset: C:\Users\NXTWAVE\Downloads\Global Pollution Analysis and Energy Recovery
-  using Apriori Algorithm\Global_Pollution_Analysis.csv
-output_directory: C:\Users\NXTWAVE\Downloads\Global Pollution Analysis and Energy
-  Recovery using Apriori Algorithm
-project_name: Global Pollution Analysis and Energy Recovery using Apriori Algorithm
+dataset_used: Global_Pollution_Analysis.csv
+minimum_confidence: 0.4
+minimum_support: 0.05
+project_title: Global Pollution Analysis and Energy Recovery using Apriori Algorithm
 random_forest_accuracy: 1.0
-target_column: Overall_Severity
+raw_dataset_included: false
+readme_included: false
+zip_created: false

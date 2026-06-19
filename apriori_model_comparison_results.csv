@@ -1,4 +1,4 @@
-Model,Accuracy_or_Score
-CNN,0.8999999761581421
+Model,Score
+CNN,0.925000011920929
 Random Forest,1.0
 Apriori Rule Mining,0.44206273776133465

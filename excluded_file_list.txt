@@ -1,0 +1,14 @@
+Global_Pollution_Analysis.csv
+README.md
+venv/
+env/
+.venv/
+node_modules/
+dist/
+build/
+.next/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+large media files
+raw data dumps

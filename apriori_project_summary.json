@@ -1,0 +1,13 @@
+{
+    "project_name": "Global Pollution Analysis and Energy Recovery using Apriori Algorithm",
+    "dataset": "C:\\Users\\NXTWAVE\\Downloads\\Global Pollution Analysis and Energy Recovery using Apriori Algorithm\\Global_Pollution_Analysis.csv",
+    "output_directory": "C:\\Users\\NXTWAVE\\Downloads\\Global Pollution Analysis and Energy Recovery using Apriori Algorithm",
+    "target_column": "Overall_Severity",
+    "apriori_min_support": 0.05,
+    "apriori_min_confidence": 0.4,
+    "cnn_epochs": 30,
+    "cnn_batch_size": 16,
+    "cnn_accuracy": 0.8999999761581421,
+    "random_forest_accuracy": 1.0,
+    "average_apriori_rule_accuracy": 0.44206273776133465
+}
